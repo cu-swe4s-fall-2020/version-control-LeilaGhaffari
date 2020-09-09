@@ -6,3 +6,6 @@ def div(a, b):
         return numpy.inf
     else:
         return (a/b)
+
+def add(a, b):
+    return (a+b)
